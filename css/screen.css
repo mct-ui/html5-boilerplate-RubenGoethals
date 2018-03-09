@@ -148,6 +148,10 @@ a:hover, a:focus {
   html {
     padding: 48px 48px 24px;
   }
+  body {
+    max-width: 42em;
+    margin: 0 auto;
+  }
   h1 {
     font-size: 58px;
     line-height: 64px;
